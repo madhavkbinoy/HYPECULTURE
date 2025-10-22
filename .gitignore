@@ -1,0 +1,12 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code specific
+.vscode/
+
+# Other common ones (optional but recommended)
+.DS_Store
+*.venv
