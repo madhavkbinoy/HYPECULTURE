@@ -4,19 +4,6 @@
 
 This project was built as a comprehensive demonstration of database management principles, including relational schema design, SQL transactions, procedures, triggers (if added), and a multi-user application interface.
 
----
-
-## 📸 Application Flow
-
-**(Recommended: Add your own screenshots here!)**
-
-| Customer Login | Browsing Products | Viewing Sellers |
-| :---: | :---: | :---: |
-| [**INSERT SCREENSHOT of Main Menu/Login**] | [**INSERT SCREENSHOT of Browsing Products**] | [**INSERT SCREENSHOT of Cart**] |
-
-| Seller Menu | Admin Menu | Order History |
-| :---: | :---: | :---: |
-| [**INSERT SCREENSHOT of Seller View**] | [**INSERT SCREENSHOT of Admin View**] | [**INSERT SCREENSHOT of Order History**] |
 
 ---
 
